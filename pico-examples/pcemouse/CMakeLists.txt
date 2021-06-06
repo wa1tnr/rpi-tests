@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 #    set(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -Wall -Wextra")
 # endif()
 
-pico_sdk_init()
+# pico_sdk_init()
 
 add_executable(pcemouse)
 
