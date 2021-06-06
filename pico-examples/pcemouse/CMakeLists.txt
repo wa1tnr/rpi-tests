@@ -16,8 +16,8 @@ endif()
 # Initialize the SDK
 pico_sdk_init()
 
-set(FAMILY rp2040)
-set(BOARD pico_sdk)
+# set(FAMILY rp2040)
+# set(BOARD pico_sdk)
 
 add_executable(pcemouse)
 
